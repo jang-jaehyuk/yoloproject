@@ -8,4 +8,4 @@ $ git clone https://github.com/jang-jaehyuk/yoloproject.git
 2. 각자의 환경에서 작업
 3. 작업물 push
 ### 사진으로 된 예시
-![](ㅇㅇㅇ)
+<img src="https://github.com/jang-jaehyuk/yoloproject/blob/6ac4d9f672ad5ee5df2a4b751bf8a030ff13d4d1/git.PNG" width="800" height="500"/>
