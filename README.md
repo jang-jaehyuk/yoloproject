@@ -7,6 +7,7 @@ $ git clone https://github.com/jang-jaehyuk/yoloproject.git
 ```
 2. 각자의 환경에서 작업
 3. 작업물 push
+
 push를 진행하기 전에 다른 팀원이 변경해놓은 내용이 있을 수 있으므로
 ```
 $ git pull
